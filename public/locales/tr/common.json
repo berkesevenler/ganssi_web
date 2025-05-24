@@ -58,7 +58,10 @@
     "newsletterDescription": "Güncellemeler ve özel teklifler için bültenimize abone olun.",
     "emailPlaceholder": "E-posta adresiniz",
     "subscribe": "Abone Ol",
-    "rights": "Tüm hakları saklıdır."
+    "rights": "Tüm hakları saklıdır.",
+    "newsletterSuccess": "Aboneliğiniz için teşekkürler! Lütfen onay için e-postanızı kontrol edin.",
+    "newsletterError": "Abonelik sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "submitting": "Gönderiliyor..."
   },
   "about": {
     "title": "Ganssi Hakkında",

@@ -58,7 +58,10 @@
     "newsletterDescription": "Subscribe to our newsletter for updates and special offers.",
     "emailPlaceholder": "Enter your email",
     "subscribe": "Subscribe",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "newsletterSuccess": "Thank you for subscribing! Please check your email for confirmation.",
+    "newsletterError": "There was an error subscribing. Please try again later.",
+    "submitting": "Submitting..."
   },
   "about": {
     "title": "About Ganssi",

@@ -79,3 +79,47 @@ export const sendContactEmail = async (data: {
     return { success: false, message: 'Failed to submit contact message.' };
   }
 };
+
+export const sendNewsletterEmail = async (userEmail: string) => {
+  try {
+    // 1. Send confirmation to the user
+    const userRes = await fetch('https://formsubmit.co/' + userEmail, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+      },
+      body: JSON.stringify({
+        _subject: 'Ganssi Newsletter Subscription',
+        _template: 'table',
+        _captcha: 'false',
+        message: 'Thank you for subscribing to the Ganssi newsletter! You will receive updates and special offers.',
+        _autoresponse: 'Thank you for subscribing to the Ganssi newsletter! You will receive updates and special offers.'
+      }),
+    });
+
+    // 2. Notify admin
+    const adminRes = await fetch('https://formsubmit.co/berkeseveenlr@gmail.com', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+      },
+      body: JSON.stringify({
+        _subject: 'New Newsletter Subscriber',
+        _template: 'table',
+        _captcha: 'false',
+        email: userEmail,
+        message: `A new user has subscribed to the newsletter: ${userEmail}`
+      }),
+    });
+
+    if (userRes.ok && adminRes.ok) {
+      return { success: true, message: 'Subscription successful!' };
+    } else {
+      return { success: false, message: 'Failed to subscribe.' };
+    }
+  } catch (error) {
+    return { success: false, message: 'Failed to subscribe.' };
+  }
+};

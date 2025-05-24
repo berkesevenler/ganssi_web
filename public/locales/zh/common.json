@@ -58,7 +58,10 @@
     "newsletterDescription": "订阅我们的新闻邮件，获取最新资讯和优惠。",
     "emailPlaceholder": "请输入您的邮箱",
     "subscribe": "订阅",
-    "rights": "版权所有。"
+    "rights": "版权所有。",
+    "newsletterSuccess": "感谢您的订阅！请查收您的电子邮件以确认。",
+    "newsletterError": "订阅时出错，请稍后再试。",
+    "submitting": "提交中..."
   },
   "about": {
     "title": "关于 Ganssi",

@@ -58,7 +58,10 @@
     "newsletterDescription": "Abonnieren Sie unseren Newsletter für Neuigkeiten und Angebote.",
     "emailPlaceholder": "Ihre E-Mail-Adresse",
     "subscribe": "Abonnieren",
-    "rights": "Alle Rechte vorbehalten."
+    "rights": "Alle Rechte vorbehalten.",
+    "newsletterSuccess": "Vielen Dank für Ihre Anmeldung! Bitte prüfen Sie Ihr E-Mail-Postfach zur Bestätigung.",
+    "newsletterError": "Beim Abonnieren ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+    "submitting": "Wird gesendet..."
   },
   "about": {
     "title": "Über Ganssi",

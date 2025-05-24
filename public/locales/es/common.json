@@ -58,7 +58,10 @@
     "newsletterDescription": "Suscríbete a nuestro boletín para recibir novedades y ofertas especiales.",
     "emailPlaceholder": "Introduce tu correo electrónico",
     "subscribe": "Suscribirse",
-    "rights": "Todos los derechos reservados."
+    "rights": "Todos los derechos reservados.",
+    "newsletterSuccess": "¡Gracias por suscribirte! Por favor revisa tu correo electrónico para confirmar.",
+    "newsletterError": "Hubo un error al suscribirte. Por favor, inténtalo de nuevo más tarde.",
+    "submitting": "Enviando..."
   },
   "about": {
     "title": "Sobre Ganssi",
