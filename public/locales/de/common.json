@@ -94,6 +94,12 @@
     "cert1": "EU-Bio-Zertifizierung",
     "cert2": "Halal-Zertifizierung",
     "cert3": "ISO 22000 Lebensmittelsicherheit",
+    "cert1Highlight": "EU Bio",
+    "cert1Rest": "Zertifizierung",
+    "cert2Highlight": "Halal",
+    "cert2Rest": "Zertifizierung",
+    "cert3Highlight": "ISO 22000",
+    "cert3Rest": "Lebensmittelsicherheit",
     "qualityTitle": "Qualitätsstandards",
     "qualityDesc": "Unsere Produkte werden in hochmodernen Anlagen verarbeitet und erfüllen die höchsten internationalen Standards.",
     "qualityDesc2": "Jede Gans ist vom Hof bis auf Ihren Tisch rückverfolgbar – für Transparenz und Vertrauen."
@@ -109,6 +115,21 @@
     "formName": "Ihr Name",
     "formEmail": "Ihre E-Mail",
     "formMessage": "Ihre Nachricht",
-    "formSubmit": "Nachricht senden"
+    "formSubmit": "Nachricht senden",
+    "successMessage": "Vielen Dank für Ihre Nachricht! Wir melden uns in Kürze.",
+    "errorMessage": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+  },
+  "orderProcess": {
+    "title": "So funktioniert Ihre Bestellung",
+    "step1Title": "Bestellung aufgegeben",
+    "step1Desc": "Sie senden Ihre Bestellung über unser sicheres Formular ab.",
+    "step2Title": "Bestellbestätigung",
+    "step2Desc": "Unser Team prüft und bestätigt Ihre Bestelldaten.",
+    "step3Title": "Vorbereitung",
+    "step3Desc": "Wir bereiten Ihre Premium-Gänse sorgfältig vor und verpacken sie.",
+    "step4Title": "Versand",
+    "step4Desc": "Ihre Bestellung wird versendet und Sie erhalten eine Sendungsverfolgung.",
+    "step5Title": "Lieferung",
+    "step5Desc": "Ihre Gänse kommen frisch und bereit bei Ihnen an."
   }
 } 

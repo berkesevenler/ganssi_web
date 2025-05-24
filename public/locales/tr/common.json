@@ -94,6 +94,12 @@
     "cert1": "AB Organik Sertifikası",
     "cert2": "Helal Sertifikası",
     "cert3": "ISO 22000 Gıda Güvenliği",
+    "cert1Highlight": "AB Organik",
+    "cert1Rest": "Sertifikası",
+    "cert2Highlight": "Helal",
+    "cert2Rest": "Sertifikası",
+    "cert3Highlight": "ISO 22000",
+    "cert3Rest": "Gıda Güvenliği",
     "qualityTitle": "Kalite Standartları",
     "qualityDesc": "Ürünlerimiz, en yüksek uluslararası standartlara uygun, modern tesislerde işlenmektedir.",
     "qualityDesc2": "Her kaz, çiftliğimizden sofranıza kadar izlenebilir olup, şeffaflık ve güven sağlar."
@@ -109,6 +115,21 @@
     "formName": "Adınız Soyadınız",
     "formEmail": "E-posta Adresiniz",
     "formMessage": "Mesajınız",
-    "formSubmit": "Mesaj Gönder"
+    "formSubmit": "Mesaj Gönder",
+    "successMessage": "Mesajınız için teşekkür ederiz! En kısa sürede sizinle iletişime geçeceğiz.",
+    "errorMessage": "Mesajınız gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+  },
+  "orderProcess": {
+    "title": "Sipariş Süreci",
+    "step1Title": "Sipariş Verildi",
+    "step1Desc": "Siparişinizi güvenli formumuz üzerinden gönderirsiniz.",
+    "step2Title": "Sipariş Onayı",
+    "step2Desc": "Ekibimiz sipariş detaylarınızı inceler ve onaylar.",
+    "step3Title": "Hazırlık",
+    "step3Desc": "Premium kazlarınız özenle hazırlanır ve paketlenir.",
+    "step4Title": "Kargo",
+    "step4Desc": "Siparişiniz kargoya verilir ve takip bilgileri sağlanır.",
+    "step5Title": "Teslimat",
+    "step5Desc": "Kazlarınız taze ve hazır şekilde adresinize ulaşır."
   }
 } 

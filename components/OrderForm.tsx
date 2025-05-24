@@ -75,7 +75,7 @@ const OrderForm = () => {
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
-      className="max-w-2xl mx-auto p-6 bg-white rounded-lg shadow-lg"
+      className="p-6 bg-white rounded-lg shadow-lg h-full flex flex-col"
     >
       <h2 className="heading-2 mb-6 text-center">{t('order.title')}</h2>
       <form onSubmit={handleSubmit} className="space-y-6">
@@ -128,20 +128,16 @@ const OrderForm = () => {
           <label htmlFor="quantity" className="block text-sm font-medium text-gray-700 mb-1">
             {t('order.quantity')}
           </label>
-          <select
+          <input
+            type="number"
             id="quantity"
             name="quantity"
+            min={1}
             value={formData.quantity}
             onChange={handleChange}
             required
             className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500"
-          >
-            {[1, 2, 3, 4, 5].map((num) => (
-              <option key={num} value={num}>
-                {num}
-              </option>
-            ))}
-          </select>
+          />
         </div>
 
         <div>

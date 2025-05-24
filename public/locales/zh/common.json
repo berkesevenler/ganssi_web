@@ -91,9 +91,12 @@
       "packaging": "真空包装，新鲜或冷冻"
     },
     "certificationsTitle": "认证",
-    "cert1": "欧盟有机认证",
-    "cert2": "清真认证",
-    "cert3": "ISO 22000 食品安全",
+    "cert1Highlight": "欧盟有机",
+    "cert1Rest": "认证",
+    "cert2Highlight": "清真",
+    "cert2Rest": "认证",
+    "cert3Highlight": "ISO 22000",
+    "cert3Rest": "食品安全认证",
     "qualityTitle": "质量标准",
     "qualityDesc": "我们的产品在最先进的设施中加工，符合最高国际标准。",
     "qualityDesc2": "每只鹅都可从农场追溯到您的餐桌，确保透明和信任。"
@@ -109,6 +112,21 @@
     "formName": "您的姓名",
     "formEmail": "您的邮箱",
     "formMessage": "您的信息",
-    "formSubmit": "发送"
+    "formSubmit": "发送",
+    "successMessage": "感谢您的留言！我们会尽快与您联系。",
+    "errorMessage": "发送消息时出错，请稍后再试。"
+  },
+  "orderProcess": {
+    "title": "您的订单流程",
+    "step1Title": "下单",
+    "step1Desc": "您通过我们的安全表单提交订单。",
+    "step2Title": "订单确认",
+    "step2Desc": "我们的团队审核并确认您的订单信息。",
+    "step3Title": "准备",
+    "step3Desc": "我们精心准备并包装您的高品质鹅。",
+    "step4Title": "发货",
+    "step4Desc": "您的订单已发货，并提供物流跟踪信息。",
+    "step5Title": "送达",
+    "step5Desc": "您的鹅新鲜送达您的地址。"
   }
 } 

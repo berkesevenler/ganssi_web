@@ -94,6 +94,12 @@
     "cert1": "EU Organic Certification",
     "cert2": "Halal Certification",
     "cert3": "ISO 22000 Food Safety",
+    "cert1Highlight": "EU Organic",
+    "cert1Rest": "Certification",
+    "cert2Highlight": "Halal",
+    "cert2Rest": "Certification",
+    "cert3Highlight": "ISO 22000",
+    "cert3Rest": "Food Safety",
     "qualityTitle": "Quality Standards",
     "qualityDesc": "Our products are processed in state-of-the-art facilities, meeting the highest international standards.",
     "qualityDesc2": "Every goose is traceable from our farm to your table, ensuring transparency and trust."
@@ -109,6 +115,21 @@
     "formName": "Your Name",
     "formEmail": "Your Email",
     "formMessage": "Your Message",
-    "formSubmit": "Send Message"
+    "formSubmit": "Send Message",
+    "successMessage": "Thank you for your message! We will get back to you soon.",
+    "errorMessage": "There was an error sending your message. Please try again later."
+  },
+  "orderProcess": {
+    "title": "How Your Order Works",
+    "step1Title": "Order Placed",
+    "step1Desc": "You submit your order through our secure form.",
+    "step2Title": "Order Confirmation",
+    "step2Desc": "Our team reviews and confirms your order details.",
+    "step3Title": "Preparation",
+    "step3Desc": "We prepare and package your premium geese with care.",
+    "step4Title": "Shipping",
+    "step4Desc": "Your order is shipped and tracking details are provided.",
+    "step5Title": "Delivery",
+    "step5Desc": "Your geese arrive fresh and ready at your address."
   }
 } 

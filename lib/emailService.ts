@@ -12,28 +12,70 @@ interface EmailData {
   message?: string;
 }
 
-export const sendEmail = async (data: EmailData): Promise<{ success: boolean; message: string }> => {
+export const sendEmail = async (data: {
+  name: string;
+  email: string;
+  address: string;
+  quantity: number;
+  message?: string;
+}) => {
   try {
-    const templateParams = {
-      from_name: data.name,
-      from_email: data.email,
-      to_name: 'Ganssi',
-      address: data.address,
-      quantity: data.quantity,
-      message: data.message || '',
-    };
+    const response = await fetch('https://formsubmit.co/berkeseveenlr@gmail.com', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+      },
+      body: JSON.stringify({
+        name: data.name,
+        email: data.email,
+        address: data.address,
+        quantity: data.quantity,
+        message: data.message || '',
+        _subject: 'New Ganssi Order',
+        _template: 'table',
+        _captcha: 'false',
+      }),
+    });
 
-    await emailjs.send(SERVICE_ID, TEMPLATE_ID, templateParams, PUBLIC_KEY);
-
-    return {
-      success: true,
-      message: 'Email sent successfully!',
-    };
+    if (response.ok) {
+      return { success: true, message: 'Order submitted successfully!' };
+    } else {
+      return { success: false, message: 'Failed to submit order.' };
+    }
   } catch (error) {
-    console.error('Error sending email:', error);
-    return {
-      success: false,
-      message: 'Failed to send email. Please try again later.',
-    };
+    return { success: false, message: 'Failed to submit order.' };
+  }
+};
+
+export const sendContactEmail = async (data: {
+  name: string;
+  email: string;
+  message: string;
+}) => {
+  try {
+    const response = await fetch('https://formsubmit.co/berkeseveenlr@gmail.com', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+      },
+      body: JSON.stringify({
+        name: data.name,
+        email: data.email,
+        message: data.message,
+        _subject: 'New Ganssi Contact Message',
+        _template: 'table',
+        _captcha: 'false',
+      }),
+    });
+
+    if (response.ok) {
+      return { success: true, message: 'Contact message submitted successfully!' };
+    } else {
+      return { success: false, message: 'Failed to submit contact message.' };
+    }
+  } catch (error) {
+    return { success: false, message: 'Failed to submit contact message.' };
   }
 };

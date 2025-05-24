@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import OrderForm from '../../components/OrderForm';
+import OrderProcess from '../../components/OrderProcess';
 
 const OrderPage = () => {
   const { t } = useTranslation('common');
@@ -39,13 +40,13 @@ const OrderPage = () => {
         {/* Order Form Section */}
         <section className="section bg-gray-50">
           <div className="container">
-            <div className="grid md:grid-cols-2 gap-12 items-start">
+            <div className="grid md:grid-cols-2 gap-12 items-stretch min-h-[70vh]">
               {/* Order Information */}
               <motion.div
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.4 }}
-                className="space-y-6"
+                className="space-y-6 h-full flex flex-col flex-1"
               >
                 <h2 className="heading-2">{t('order.infoTitle')}</h2>
                 <div className="prose prose-lg">
@@ -65,6 +66,7 @@ const OrderPage = () => {
                     </li>
                   </ul>
                 </div>
+                <OrderProcess />
               </motion.div>
 
               {/* Order Form */}
@@ -72,6 +74,7 @@ const OrderPage = () => {
                 initial={{ opacity: 0, x: 20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.4 }}
+                className="h-full flex flex-col flex-1"
               >
                 <OrderForm />
               </motion.div>

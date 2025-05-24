@@ -94,6 +94,12 @@
     "cert1": "Certificación Orgánica de la UE",
     "cert2": "Certificación Halal",
     "cert3": "ISO 22000 Seguridad Alimentaria",
+    "cert1Highlight": "Orgánico UE",
+    "cert1Rest": "Certificación",
+    "cert2Highlight": "Halal",
+    "cert2Rest": "Certificación",
+    "cert3Highlight": "ISO 22000",
+    "cert3Rest": "Seguridad Alimentaria",
     "qualityTitle": "Estándares de Calidad",
     "qualityDesc": "Nuestros productos se procesan en instalaciones de última generación, cumpliendo con los más altos estándares internacionales.",
     "qualityDesc2": "Cada ganso es rastreable desde nuestra granja hasta su mesa, garantizando transparencia y confianza."
@@ -109,6 +115,21 @@
     "formName": "Tu nombre",
     "formEmail": "Tu correo electrónico",
     "formMessage": "Tu mensaje",
-    "formSubmit": "Enviar mensaje"
+    "formSubmit": "Enviar mensaje",
+    "successMessage": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.",
+    "errorMessage": "Hubo un error al enviar tu mensaje. Por favor, inténtalo de nuevo más tarde."
+  },
+  "orderProcess": {
+    "title": "Cómo funciona tu pedido",
+    "step1Title": "Pedido realizado",
+    "step1Desc": "Envías tu pedido a través de nuestro formulario seguro.",
+    "step2Title": "Confirmación del pedido",
+    "step2Desc": "Nuestro equipo revisa y confirma los detalles de tu pedido.",
+    "step3Title": "Preparación",
+    "step3Desc": "Preparamos y empaquetamos tus gansos premium con cuidado.",
+    "step4Title": "Envío",
+    "step4Desc": "Tu pedido se envía y se proporcionan los detalles de seguimiento.",
+    "step5Title": "Entrega",
+    "step5Desc": "Tus gansos llegan frescos y listos a tu dirección."
   }
 } 
