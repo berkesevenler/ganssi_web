@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "order": "Sipariş",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Uludağ'ın Kalbinde Premium Kaz Yetiştiriciliği",
+    "subtitle": "Uludağ Dağı'nın bakir ortamında özenle yetiştirilen en kaliteli kazları deneyimleyin.",
+    "orderNow": "Sipariş Ver",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "features": {
+    "title": "Neden Ganssi?",
+    "subtitle": "Geleneksel yetiştiricilik yöntemlerini modern uygulamalarla birleştirerek dünya çapında müşterilerimize en kaliteli kazları sunuyoruz.",
+    "quality": {
+      "title": "Premium Kalite",
+      "description": "Kazlarımız, Uludağ'ın doğal, yüksek rakımlı ortamında yetiştirilerek en kaliteli eti garanti eder."
+    },
+    "sustainability": {
+      "title": "Sürdürülebilir Yetiştiricilik",
+      "description": "Hem hayvanlarımıza hem de çevreye saygılı, etik ve sürdürülebilir yetiştiricilik yöntemleri uyguluyoruz."
+    },
+    "global": {
+      "title": "Global Teslimat",
+      "description": "Premium kazlarımızı dünya çapında müşterilerimize, en yüksek paketleme ve taşıma standartlarını koruyarak teslim ediyoruz."
+    }
+  },
+  "order": {
+    "pageTitle": "Premium Kaz Siparişi",
+    "pageDescription": "Premium kalitedeki kazlarımızı sipariş etmek için aşağıdaki formu doldurun.",
+    "infoTitle": "Sipariş Bilgileri",
+    "infoDescription": "Müşterilerimize en kaliteli kazları teslim etmekten gurur duyuyoruz. İşte bekleyebileceğiniz özellikler:",
+    "infoPoint1": "Uludağ Dağı'nın doğal ortamında yetiştirilen premium kalitede kazlar",
+    "infoPoint2": "Etik ve sürdürülebilir yetiştiricilik uygulamaları",
+    "infoPoint3": "Uygun paketleme ve taşıma ile dünya çapında teslimat",
+    "title": "Siparişinizi Verin",
+    "name": "Ad Soyad",
+    "email": "E-posta Adresi",
+    "address": "Teslimat Adresi",
+    "quantity": "Kaz Adedi",
+    "message": "Özel Talimatlar (İsteğe Bağlı)",
+    "submit": "Siparişi Gönder",
+    "submitting": "Gönderiliyor...",
+    "successMessage": "Siparişiniz için teşekkür ederiz! En kısa sürede sizinle iletişime geçeceğiz.",
+    "errorMessage": "Siparişiniz gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+  },
+  "footer": {
+    "description": "Bursa Uludağ Dağı'nın eteklerinde bulunan premium kaz yetiştiriciliği ve ihracat şirketi.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "address": "Uludağ Dağı, Bursa, Türkiye",
+    "phone": "+90-XXX-XXX-XXXX",
+    "email": "help@ganssi.com",
+    "newsletter": "Bülten",
+    "newsletterDescription": "Güncellemeler ve özel teklifler için bültenimize abone olun.",
+    "emailPlaceholder": "E-posta adresiniz",
+    "subscribe": "Abone Ol",
+    "rights": "Tüm hakları saklıdır."
+  }
+}

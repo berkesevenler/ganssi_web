@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "order": "Order",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Goose Farming in the Heart of Uludağ",
+    "subtitle": "Experience the finest quality geese, raised with care in the pristine environment of Uludağ Mountain, Türkiye.",
+    "orderNow": "Order Now",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose Ganssi?",
+    "subtitle": "We combine traditional farming methods with modern practices to deliver the highest quality geese to our customers worldwide.",
+    "quality": {
+      "title": "Premium Quality",
+      "description": "Our geese are raised in the natural, high-altitude environment of Uludağ, ensuring the finest quality meat."
+    },
+    "sustainability": {
+      "title": "Sustainable Farming",
+      "description": "We practice ethical and sustainable farming methods, respecting both our animals and the environment."
+    },
+    "global": {
+      "title": "Global Delivery",
+      "description": "We deliver our premium geese to customers worldwide, maintaining the highest standards of packaging and transportation."
+    }
+  },
+  "order": {
+    "pageTitle": "Order Premium Geese",
+    "pageDescription": "Fill out the form below to place your order for our premium quality geese.",
+    "infoTitle": "Order Information",
+    "infoDescription": "We take pride in delivering the highest quality geese to our customers. Here's what you can expect:",
+    "infoPoint1": "Premium quality geese raised in the natural environment of Uludağ Mountain",
+    "infoPoint2": "Ethical and sustainable farming practices",
+    "infoPoint3": "Worldwide shipping with proper packaging and handling",
+    "title": "Place Your Order",
+    "name": "Full Name",
+    "email": "Email Address",
+    "address": "Shipping Address",
+    "quantity": "Number of Geese",
+    "message": "Special Instructions (Optional)",
+    "submit": "Submit Order",
+    "submitting": "Submitting...",
+    "successMessage": "Thank you for your order! We will contact you shortly with the details.",
+    "errorMessage": "There was an error submitting your order. Please try again later."
+  },
+  "footer": {
+    "description": "Premium goose farming and export company based on the slopes of Uludağ Mountain in Bursa, Türkiye.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "address": "Uludağ Mountain, Bursa, Türkiye",
+    "phone": "+90-XXX-XXX-XXXX",
+    "email": "help@ganssi.com",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Subscribe to our newsletter for updates and special offers.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved."
+  },
+  "about": {
+    "title": "About Ganssi",
+    "subtitle": "Our story, mission, and the natural beauty of Uludağ.",
+    "ourStoryTitle": "Our Story",
+    "ourStory": "Ganssi was founded on the slopes of Uludağ Mountain in Bursa, Türkiye, with a passion for raising geese in harmony with nature. Our journey began with a commitment to quality, sustainability, and ethical farming.",
+    "missionTitle": "Our Mission",
+    "mission": "To deliver the finest goose products to the world while preserving the environment and supporting our local community.",
+    "locationTitle": "Our Location",
+    "location": "Nestled in the pristine, high-altitude environment of Uludağ, our farm benefits from pure mountain air and natural spring water, creating the perfect conditions for healthy, happy geese.",
+    "practicesTitle": "Farming Practices",
+    "practices": "We use traditional, ethical, and sustainable farming methods, ensuring our geese are raised with care and respect for both animal welfare and the environment."
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Premium goose products, expertly prepared and packaged.",
+    "wholeGoose": {
+      "title": "Whole Goose",
+      "desc": "A premium, whole goose, perfect for festive occasions and gourmet meals.",
+      "packaging": "Vacuum-sealed, fresh or frozen"
+    },
+    "gooseBreast": {
+      "title": "Goose Breast Fillet",
+      "desc": "Tender, flavorful goose breast fillets, ideal for fine dining.",
+      "packaging": "Individually packed, fresh or frozen"
+    },
+    "gooseLeg": {
+      "title": "Goose Leg",
+      "desc": "Succulent goose legs, slow-raised for rich taste and texture.",
+      "packaging": "Vacuum-sealed, fresh or frozen"
+    },
+    "certificationsTitle": "Certifications",
+    "cert1": "EU Organic Certification",
+    "cert2": "Halal Certification",
+    "cert3": "ISO 22000 Food Safety",
+    "qualityTitle": "Quality Standards",
+    "qualityDesc": "Our products are processed in state-of-the-art facilities, meeting the highest international standards.",
+    "qualityDesc2": "Every goose is traceable from our farm to your table, ensuring transparency and trust."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you! Reach out for orders, questions, or a visit to our farm.",
+    "infoTitle": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "formTitle": "Send Us a Message",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formMessage": "Your Message",
+    "formSubmit": "Send Message"
+  }
+} 

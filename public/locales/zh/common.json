@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品",
+    "order": "订购",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "乌鲁达山心脏地带的高端鹅养殖",
+    "subtitle": "体验在土耳其乌鲁达山纯净环境中精心养殖的顶级鹅。",
+    "orderNow": "立即订购",
+    "learnMore": "了解更多"
+  },
+  "features": {
+    "title": "为什么选择 Ganssi？",
+    "subtitle": "我们结合传统养殖方法与现代实践，为全球客户提供最高品质的鹅。",
+    "quality": {
+      "title": "顶级品质",
+      "description": "我们的鹅在乌鲁达山自然高海拔环境中养殖，确保肉质上乘。"
+    },
+    "sustainability": {
+      "title": "可持续养殖",
+      "description": "我们采用道德且可持续的养殖方式，尊重动物和环境。"
+    },
+    "global": {
+      "title": "全球配送",
+      "description": "我们为全球客户配送高端鹅产品，确保包装和运输标准最高。"
+    }
+  },
+  "order": {
+    "pageTitle": "订购高端鹅",
+    "pageDescription": "请填写下方表格，订购我们的高品质鹅。",
+    "infoTitle": "订购信息",
+    "infoDescription": "我们以为客户提供最优质的鹅为傲。您将获得：",
+    "infoPoint1": "在乌鲁达山自然环境中养殖的高品质鹅",
+    "infoPoint2": "道德且可持续的养殖实践",
+    "infoPoint3": "全球配送，包装与处理规范",
+    "title": "提交订单",
+    "name": "姓名",
+    "email": "电子邮件",
+    "address": "收货地址",
+    "quantity": "鹅的数量",
+    "message": "特殊说明（可选）",
+    "submit": "提交订单",
+    "submitting": "提交中...",
+    "successMessage": "感谢您的订购！我们会尽快与您联系确认详情。",
+    "errorMessage": "提交订单时出错，请稍后再试。"
+  },
+  "footer": {
+    "description": "位于土耳其布尔萨乌鲁达山坡的高端鹅养殖与出口公司。",
+    "quickLinks": "快速链接",
+    "contact": "联系我们",
+    "address": "乌鲁达山，布尔萨，土耳其",
+    "phone": "+90-XXX-XXX-XXXX",
+    "email": "help@ganssi.com",
+    "newsletter": "订阅",
+    "newsletterDescription": "订阅我们的新闻邮件，获取最新资讯和优惠。",
+    "emailPlaceholder": "请输入您的邮箱",
+    "subscribe": "订阅",
+    "rights": "版权所有。"
+  },
+  "about": {
+    "title": "关于 Ganssi",
+    "subtitle": "我们的故事、使命和乌鲁达山的自然之美。",
+    "ourStoryTitle": "我们的故事",
+    "ourStory": "Ganssi 成立于土耳其布尔萨乌鲁达山的山坡上，怀着与自然和谐养鹅的热情。我们的旅程始于对质量、可持续性和道德农业的承诺。",
+    "missionTitle": "我们的使命",
+    "mission": "在保护环境和支持本地社区的同时，将最优质的鹅产品带给世界。",
+    "locationTitle": "我们的地点",
+    "location": "我们的农场坐落在乌鲁达山纯净的高海拔环境中，享有纯净的山间空气和天然泉水，为健康快乐的鹅创造了完美的条件。",
+    "practicesTitle": "养殖实践",
+    "practices": "我们采用传统、道德和可持续的方法，确保我们的鹅在关爱和尊重动物福利及环境的前提下饲养。"
+  },
+  "products": {
+    "title": "我们的产品",
+    "subtitle": "优质鹅产品，专业准备和包装。",
+    "wholeGoose": {
+      "title": "整鹅",
+      "desc": "优质整鹅，适合节日和美食盛宴。",
+      "packaging": "真空包装，新鲜或冷冻"
+    },
+    "gooseBreast": {
+      "title": "鹅胸肉",
+      "desc": "嫩滑美味的鹅胸肉片，适合高端餐饮。",
+      "packaging": "单独包装，新鲜或冷冻"
+    },
+    "gooseLeg": {
+      "title": "鹅腿",
+      "desc": "多汁的鹅腿，慢养以获得丰富的口感和风味。",
+      "packaging": "真空包装，新鲜或冷冻"
+    },
+    "certificationsTitle": "认证",
+    "cert1": "欧盟有机认证",
+    "cert2": "清真认证",
+    "cert3": "ISO 22000 食品安全",
+    "qualityTitle": "质量标准",
+    "qualityDesc": "我们的产品在最先进的设施中加工，符合最高国际标准。",
+    "qualityDesc2": "每只鹅都可从农场追溯到您的餐桌，确保透明和信任。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "欢迎联系我们！如需订购、咨询或参观农场，请与我们联系。",
+    "infoTitle": "联系信息",
+    "address": "地址",
+    "phone": "电话",
+    "email": "电子邮件",
+    "formTitle": "发送信息",
+    "formName": "您的姓名",
+    "formEmail": "您的邮箱",
+    "formMessage": "您的信息",
+    "formSubmit": "发送"
+  }
+} 

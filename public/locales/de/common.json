@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "order": "Bestellen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Premium Gänsezucht im Herzen des Uludağ",
+    "subtitle": "Erleben Sie die beste Qualität von Gänsen, mit Sorgfalt in der unberührten Natur des Uludağ in der Türkei aufgezogen.",
+    "orderNow": "Jetzt bestellen",
+    "learnMore": "Mehr erfahren"
+  },
+  "features": {
+    "title": "Warum Ganssi?",
+    "subtitle": "Wir verbinden traditionelle Landwirtschaft mit modernen Methoden, um höchste Qualität weltweit zu liefern.",
+    "quality": {
+      "title": "Premium Qualität",
+      "description": "Unsere Gänse wachsen in der natürlichen, hochgelegenen Umgebung des Uludağ auf – für bestes Fleisch."
+    },
+    "sustainability": {
+      "title": "Nachhaltige Landwirtschaft",
+      "description": "Wir setzen auf ethische und nachhaltige Methoden, mit Respekt für Tiere und Umwelt."
+    },
+    "global": {
+      "title": "Weltweite Lieferung",
+      "description": "Wir liefern unsere Premium-Gänse weltweit und achten auf höchste Verpackungs- und Transportstandards."
+    }
+  },
+  "order": {
+    "pageTitle": "Premium-Gänse bestellen",
+    "pageDescription": "Füllen Sie das Formular aus, um Ihre Bestellung aufzugeben.",
+    "infoTitle": "Bestellinformationen",
+    "infoDescription": "Wir sind stolz darauf, Ihnen höchste Qualität zu liefern. Das erwartet Sie:",
+    "infoPoint1": "Premium-Gänse aus der natürlichen Umgebung des Uludağ",
+    "infoPoint2": "Ethische und nachhaltige Landwirtschaft",
+    "infoPoint3": "Weltweiter Versand mit optimaler Verpackung",
+    "title": "Bestellformular",
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "address": "Lieferadresse",
+    "quantity": "Anzahl der Gänse",
+    "message": "Sonderwünsche (optional)",
+    "submit": "Bestellung absenden",
+    "submitting": "Wird gesendet...",
+    "successMessage": "Vielen Dank für Ihre Bestellung! Wir melden uns in Kürze mit den Details.",
+    "errorMessage": "Beim Absenden ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+  },
+  "footer": {
+    "description": "Premium-Gänsezucht und Export am Uludağ in Bursa, Türkei.",
+    "quickLinks": "Schnellzugriff",
+    "contact": "Kontakt",
+    "address": "Uludağ, Bursa, Türkei",
+    "phone": "+90-XXX-XXX-XXXX",
+    "email": "help@ganssi.com",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Abonnieren Sie unseren Newsletter für Neuigkeiten und Angebote.",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "subscribe": "Abonnieren",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "about": {
+    "title": "Über Ganssi",
+    "subtitle": "Unsere Geschichte, Mission und die natürliche Schönheit des Uludağ.",
+    "ourStoryTitle": "Unsere Geschichte",
+    "ourStory": "Ganssi wurde an den Hängen des Uludağ in Bursa, Türkei, mit der Leidenschaft gegründet, Gänse im Einklang mit der Natur zu züchten. Unsere Reise begann mit dem Bekenntnis zu Qualität, Nachhaltigkeit und ethischer Landwirtschaft.",
+    "missionTitle": "Unsere Mission",
+    "mission": "Die besten Gänseprodukte der Welt zu liefern, während wir die Umwelt schützen und unsere lokale Gemeinschaft unterstützen.",
+    "locationTitle": "Unser Standort",
+    "location": "Eingebettet in die unberührte, hochgelegene Umgebung des Uludağ profitiert unser Hof von reiner Bergluft und natürlichem Quellwasser – perfekte Bedingungen für gesunde, glückliche Gänse.",
+    "practicesTitle": "Landwirtschaftliche Praktiken",
+    "practices": "Wir verwenden traditionelle, ethische und nachhaltige Methoden, um sicherzustellen, dass unsere Gänse mit Sorgfalt und Respekt für Tierwohl und Umwelt aufgezogen werden."
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Premium-Gänseprodukte, fachmännisch zubereitet und verpackt.",
+    "wholeGoose": {
+      "title": "Ganze Gans",
+      "desc": "Eine Premium-Gans, perfekt für festliche Anlässe und Gourmetgerichte.",
+      "packaging": "Vakuumverpackt, frisch oder gefroren"
+    },
+    "gooseBreast": {
+      "title": "Gänsebrustfilet",
+      "desc": "Zartes, aromatisches Gänsebrustfilet, ideal für die gehobene Küche.",
+      "packaging": "Einzeln verpackt, frisch oder gefroren"
+    },
+    "gooseLeg": {
+      "title": "Gänsekeule",
+      "desc": "Saftige Gänsekeulen, langsam aufgezogen für reichen Geschmack und Textur.",
+      "packaging": "Vakuumverpackt, frisch oder gefroren"
+    },
+    "certificationsTitle": "Zertifikate",
+    "cert1": "EU-Bio-Zertifizierung",
+    "cert2": "Halal-Zertifizierung",
+    "cert3": "ISO 22000 Lebensmittelsicherheit",
+    "qualityTitle": "Qualitätsstandards",
+    "qualityDesc": "Unsere Produkte werden in hochmodernen Anlagen verarbeitet und erfüllen die höchsten internationalen Standards.",
+    "qualityDesc2": "Jede Gans ist vom Hof bis auf Ihren Tisch rückverfolgbar – für Transparenz und Vertrauen."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir freuen uns auf Ihre Nachricht! Kontaktieren Sie uns für Bestellungen, Fragen oder einen Besuch auf unserem Hof.",
+    "infoTitle": "Kontaktinformationen",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "formTitle": "Schreiben Sie uns",
+    "formName": "Ihr Name",
+    "formEmail": "Ihre E-Mail",
+    "formMessage": "Ihre Nachricht",
+    "formSubmit": "Nachricht senden"
+  }
+} 

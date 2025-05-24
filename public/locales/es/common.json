@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre nosotros",
+    "products": "Productos",
+    "order": "Pedido",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Cría de gansos premium en el corazón de Uludağ",
+    "subtitle": "Experimenta la mejor calidad de gansos, criados con esmero en el entorno prístino del Monte Uludağ, Turquía.",
+    "orderNow": "Pedir ahora",
+    "learnMore": "Saber más"
+  },
+  "features": {
+    "title": "¿Por qué elegir Ganssi?",
+    "subtitle": "Combinamos métodos agrícolas tradicionales con prácticas modernas para ofrecer la más alta calidad de gansos a nuestros clientes en todo el mundo.",
+    "quality": {
+      "title": "Calidad Premium",
+      "description": "Nuestros gansos se crían en el entorno natural y de gran altitud de Uludağ, asegurando la mejor calidad de carne."
+    },
+    "sustainability": {
+      "title": "Agricultura Sostenible",
+      "description": "Practicamos métodos agrícolas éticos y sostenibles, respetando tanto a los animales como al medio ambiente."
+    },
+    "global": {
+      "title": "Envío Global",
+      "description": "Entregamos nuestros gansos premium a clientes de todo el mundo, manteniendo los más altos estándares de embalaje y transporte."
+    }
+  },
+  "order": {
+    "pageTitle": "Pide gansos premium",
+    "pageDescription": "Completa el siguiente formulario para realizar tu pedido de nuestros gansos de calidad premium.",
+    "infoTitle": "Información del pedido",
+    "infoDescription": "Nos enorgullece entregar la mejor calidad de gansos a nuestros clientes. Esto es lo que puedes esperar:",
+    "infoPoint1": "Gansos de calidad premium criados en el entorno natural del Monte Uludağ",
+    "infoPoint2": "Prácticas agrícolas éticas y sostenibles",
+    "infoPoint3": "Envío mundial con embalaje y manipulación adecuados",
+    "title": "Haz tu pedido",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "address": "Dirección de envío",
+    "quantity": "Cantidad de gansos",
+    "message": "Instrucciones especiales (opcional)",
+    "submit": "Enviar pedido",
+    "submitting": "Enviando...",
+    "successMessage": "¡Gracias por tu pedido! Nos pondremos en contacto contigo pronto con los detalles.",
+    "errorMessage": "Hubo un error al enviar tu pedido. Por favor, inténtalo de nuevo más tarde."
+  },
+  "footer": {
+    "description": "Empresa premium de cría y exportación de gansos ubicada en las laderas del Monte Uludağ en Bursa, Turquía.",
+    "quickLinks": "Enlaces rápidos",
+    "contact": "Contacto",
+    "address": "Monte Uludağ, Bursa, Turquía",
+    "phone": "+90-XXX-XXX-XXXX",
+    "email": "help@ganssi.com",
+    "newsletter": "Boletín",
+    "newsletterDescription": "Suscríbete a nuestro boletín para recibir novedades y ofertas especiales.",
+    "emailPlaceholder": "Introduce tu correo electrónico",
+    "subscribe": "Suscribirse",
+    "rights": "Todos los derechos reservados."
+  },
+  "about": {
+    "title": "Sobre Ganssi",
+    "subtitle": "Nuestra historia, misión y la belleza natural de Uludağ.",
+    "ourStoryTitle": "Nuestra Historia",
+    "ourStory": "Ganssi fue fundada en las laderas del Monte Uludağ en Bursa, Turquía, con la pasión de criar gansos en armonía con la naturaleza. Nuestro viaje comenzó con el compromiso con la calidad, la sostenibilidad y la agricultura ética.",
+    "missionTitle": "Nuestra Misión",
+    "mission": "Ofrecer los mejores productos de ganso al mundo, preservando el medio ambiente y apoyando a nuestra comunidad local.",
+    "locationTitle": "Nuestra Ubicación",
+    "location": "Ubicada en el entorno prístino y de gran altitud de Uludağ, nuestra granja se beneficia del aire puro de la montaña y el agua de manantial natural, creando las condiciones perfectas para gansos sanos y felices.",
+    "practicesTitle": "Prácticas Agrícolas",
+    "practices": "Utilizamos métodos tradicionales, éticos y sostenibles, asegurando que nuestros gansos se críen con cuidado y respeto tanto por el bienestar animal como por el medio ambiente."
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "subtitle": "Productos de ganso premium, preparados y envasados profesionalmente.",
+    "wholeGoose": {
+      "title": "Ganso Entero",
+      "desc": "Un ganso entero premium, perfecto para ocasiones festivas y comidas gourmet.",
+      "packaging": "Envasado al vacío, fresco o congelado"
+    },
+    "gooseBreast": {
+      "title": "Pechuga de Ganso",
+      "desc": "Filetes de pechuga de ganso tiernos y sabrosos, ideales para alta cocina.",
+      "packaging": "Empaque individual, fresco o congelado"
+    },
+    "gooseLeg": {
+      "title": "Muslo de Ganso",
+      "desc": "Muslos de ganso jugosos, criados lentamente para un sabor y textura ricos.",
+      "packaging": "Envasado al vacío, fresco o congelado"
+    },
+    "certificationsTitle": "Certificaciones",
+    "cert1": "Certificación Orgánica de la UE",
+    "cert2": "Certificación Halal",
+    "cert3": "ISO 22000 Seguridad Alimentaria",
+    "qualityTitle": "Estándares de Calidad",
+    "qualityDesc": "Nuestros productos se procesan en instalaciones de última generación, cumpliendo con los más altos estándares internacionales.",
+    "qualityDesc2": "Cada ganso es rastreable desde nuestra granja hasta su mesa, garantizando transparencia y confianza."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¡Nos encantaría saber de ti! Contáctanos para pedidos, preguntas o una visita a nuestra granja.",
+    "infoTitle": "Información de Contacto",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "formTitle": "Envíanos un mensaje",
+    "formName": "Tu nombre",
+    "formEmail": "Tu correo electrónico",
+    "formMessage": "Tu mensaje",
+    "formSubmit": "Enviar mensaje"
+  }
+} 

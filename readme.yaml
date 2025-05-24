@@ -1,0 +1,32 @@
+
+help@ganssi.com
+
+---
+
+## 🌐 Tech Stack Recommendation
+
+- **Frontend**: HTML, CSS, JavaScript (React or Vue recommended for dynamic UI)
+- **Backend**: Node.js / PHP (for form processing)
+- **Form Handling**: EmailJS
+- **Localization**: i18next for multi-language support
+
+---
+
+## 📦 Deployment Suggestions
+
+- **Hosting**: Vercel, Netlify, or traditional cPanel hosting
+- **Domain**: www.ganssi.com
+- **SSL Certificate**: Use HTTPS for secure transactions
+
+---
+
+## 📞 Support
+
+For issues or questions, reach out to us at:
+
+**Email**: support@ganssi.com  
+**Phone**: +90-XXX-XXX-XXXX
+
+---
+
+Thank you for supporting Ganssi — bringing the taste of Uludağ to the world!

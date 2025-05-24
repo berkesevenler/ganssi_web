@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "order": "Order",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Goose Farming in the Heart of Uludağ",
+    "subtitle": "Experience the finest quality geese, raised with care in the pristine environment of Uludağ Mountain, Türkiye.",
+    "orderNow": "Order Now",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose Ganssi?",
+    "subtitle": "We combine traditional farming methods with modern practices to deliver the highest quality geese to our customers worldwide.",
+    "quality": {
+      "title": "Premium Quality",
+      "description": "Our geese are raised in the natural, high-altitude environment of Uludağ, ensuring the finest quality meat."
+    },
+    "sustainability": {
+      "title": "Sustainable Farming",
+      "description": "We practice ethical and sustainable farming methods, respecting both our animals and the environment."
+    },
+    "global": {
+      "title": "Global Delivery",
+      "description": "We deliver our premium geese to customers worldwide, maintaining the highest standards of packaging and transportation."
+    }
+  },
+  "order": {
+    "pageTitle": "Order Premium Geese",
+    "pageDescription": "Fill out the form below to place your order for our premium quality geese.",
+    "infoTitle": "Order Information",
+    "infoDescription": "We take pride in delivering the highest quality geese to our customers. Here's what you can expect:",
+    "infoPoint1": "Premium quality geese raised in the natural environment of Uludağ Mountain",
+    "infoPoint2": "Ethical and sustainable farming practices",
+    "infoPoint3": "Worldwide shipping with proper packaging and handling",
+    "title": "Place Your Order",
+    "name": "Full Name",
+    "email": "Email Address",
+    "address": "Shipping Address",
+    "quantity": "Number of Geese",
+    "message": "Special Instructions (Optional)",
+    "submit": "Submit Order",
+    "submitting": "Submitting...",
+    "successMessage": "Thank you for your order! We will contact you shortly with the details.",
+    "errorMessage": "There was an error submitting your order. Please try again later."
+  },
+  "footer": {
+    "description": "Premium goose farming and export company based on the slopes of Uludağ Mountain in Bursa, Türkiye.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "address": "Uludağ Mountain, Bursa, Türkiye",
+    "phone": "+90-XXX-XXX-XXXX",
+    "email": "help@ganssi.com",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Subscribe to our newsletter for updates and special offers.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved."
+  }
+}
